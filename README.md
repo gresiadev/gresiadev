@@ -17,15 +17,15 @@ Desarrollador frontend enfocado en **React** para la construcción de interfaces
 
 - 📂 **Portfolio Web**  
   Mi portfolio actual, con detalles sobre mí y mis proyectos.  
-  👉 [Repo](https://github.com/lukidev/portfolio) | [Demo](https://lukidev.vercel.app)
+  👉 [Repo](https://github.com/gresiadev/Portfolio) | [Demo](https://lukidev.vercel.app)
   
 - 👤 **User Manager**  
   App para manejar usuarios con autenticación, rutas privadas y manejo de errores global.  
-  👉 [Repo](https://github.com/lukidev/user-manager) | [Demo](https://user-manager.vercel.app)
+  👉 [Repo](https://github.com/gresiadev/userManager) | [Demo](https://user-manager.vercel.app)
   
 - 🛠️ **League Team Builder**  
   App funcional para crear un equipo con persistencia, rutas y filtros.  
-  👉 [Repo](https://github.com/lukidev/ecommerce) | [Demo](https://tuecommerce.vercel.app)
+  👉 [Repo](https://github.com/gresiadev/LeagueTeamBuilder) | [Demo](https://tuecommerce.vercel.app)
 
 
 ---
