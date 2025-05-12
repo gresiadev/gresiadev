@@ -1,16 +1,40 @@
-## Hi there 👋
+### 👋 ¡Buenas! Soy Lucas Gresia.
 
-<!--
-**gresiadev/gresiadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador frontend enfocado en **React** para la construcción de interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tecnologías que manejo
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **React** (con Context, Hooks, Router)
+- **Vite**
+
+---
+
+### 🧩 Proyectos destacados
+
+- 📂 **Portfolio Web**  
+  Mi portfolio actual, con detalles sobre mí y mis proyectos.  
+  👉 [Repo](https://github.com/lukidev/portfolio) | [Demo](https://lukidev.vercel.app)
+  
+- 👤 **User Manager**  
+  App para manejar usuarios con autenticación, rutas privadas y manejo de errores global.  
+  👉 [Repo](https://github.com/lukidev/user-manager) | [Demo](https://user-manager.vercel.app)
+  
+- 🛠️ **League Team Builder**  
+  App funcional para crear un equipo con persistencia, rutas y filtros.  
+  👉 [Repo](https://github.com/lukidev/ecommerce) | [Demo](https://tuecommerce.vercel.app)
+
+
+---
+
+### 📫 Contacto
+- Email: lucasgresia@hotmail.com
+- LinkedIn: [link](https://www.linkedin.com/in/lucas-gresia-972337183/)
+
+---
+
+💬 *Actualmente buscando mi primer oportunidad laboral como desarrollador frontend. ¡Estoy listo para sumarme a un equipo y seguir creciendo!*
+
