@@ -8,7 +8,8 @@ Desarrollador frontend enfocado en **React** para la construcción de interfaces
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **React** (con Context, Hooks, Router)
+- **React**
+- **React Router Dom**
 - **Vite**
 
 ---
