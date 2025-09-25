@@ -20,15 +20,6 @@ Desarrollador frontend enfocado en **React** para la construcción de interfaces
   Mi portfolio actual, con detalles sobre mí y mis proyectos.  
   👉 [Repo](https://github.com/gresiadev/Portfolio) 
   
-- 👤 **User Manager**  
-  App para manejar usuarios con autenticación, rutas privadas y manejo de errores global.  
-  👉 [Repo](https://github.com/gresiadev/userManager) 
-  
-- 🛠️ **League Team Builder**  
-  App funcional para crear un equipo con persistencia, rutas y filtros.  
-  👉 [Repo](https://github.com/gresiadev/LeagueTeamBuilder) 
-
-
 ---
 
 ### 📫 Contacto
