@@ -10,6 +10,7 @@ Desarrollador frontend enfocado en **React** para la construcción de interfaces
 - **JavaScript**
 - **React**
 - **React Router Dom**
+- **Redux Toolkit**
 - **Vite**
 
 ---
