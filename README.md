@@ -25,7 +25,7 @@
 <br>
 <br>
 
-<h2> Mis habilidades incluyen </h2>
+<h2>🪄 Mis habilidades incluyen </h2>
 
 <h3> Lenguages </h3>
 <span> 
@@ -60,23 +60,27 @@
 <br>
 
 <h2>🧩 Proyectos destacados</h2>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gresiadev&repo=Portfolio)](https://portfolio-pfv1na7nk-lucas-projects-2efe0cca.vercel.app/gresia-dev)
 
-### 🧩 Proyectos destacados
+<table style="border: none">
+  <tr>
+  <td width="100%" valign="top">
 
-- 📂 **Portfolio Web**  
-  Mi portfolio actual, con detalles sobre mí y mis proyectos.  
-  👉 [Repo](https://github.com/gresiadev/Portfolio) 
-  
----
+## Portfolio
+Portfolio que muestra proyectos e interfaces interactivas desarrolladas con mi stack Front-End. 
 
-### 📫 Contacto
-- Email: lucasgresia@hotmail.com
-- LinkedIn: [link](https://www.linkedin.com/in/lucas-gresia-972337183/)
+📂 **Repo:** [Ver Repo](https://github.com/gresiadev/Portfolio)  
 
----
+🌐 **Link:** [Ver Portfolio](https://portfolio-pfv1na7nk-lucas-projects-2efe0cca.vercel.app/gresia-dev)
 
-💬 *Actualmente buscando mi primer oportunidad laboral como desarrollador frontend. ¡Estoy listo para sumarme a un equipo y seguir creciendo!*
+  </td>
+  </tr>
+</table>
 
+<br>
+<br>
+
+<h2>📫 Contacto</h2>
+
+ 📧 **Email:** [Enviar correo](mailto:lucasgresia@hotmail.com)  
+ 
+🔗 **LinkedIn:** [Ver perfil](https://www.linkedin.com/in/lucas-gresia-972337183/)
